@@ -1,0 +1,4 @@
+Working Offline
+While the Coursera platform has an integrated Jupyter Notebook system, you can work offline on your own computer by installing Python 3.5+ and the Jupyter software packages. For more details, consult the Jupyter Notebook FAQ.
+
+Note that this course uses the following packages: (a) sklearn-0.18.1, (b) nltk-3.2.4, (c) gensim-2.1.0, and (d) pandas-0.20.1.
